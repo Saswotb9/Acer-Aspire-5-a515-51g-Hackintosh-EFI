@@ -7,22 +7,16 @@ This EFI is made for the following hardware specification;
 
 ## CPU:
 Intel Core i5-8250U (Kaby Lake -R)
-
 ## GPU: 
-
 i. Intel UHD Graphics 620 -- Working with full graphics acceleration.(2048 MB)
 
 ii. Nvidia GeForce MX 150 -- Disabled as not supported in macOS. 
-
 ## Laptop Model: 
 Acer Aspire 5 A515-51G-59Z0
-
 ## Ethernet Card: 
 Using "RealtekRTL8111.kext"
-
 ## Wifi/BT Card: 
-Not Working (Will work if the card is replaced with "BCM94352z". 
-
+Not Working (Will work if the stock card is replaced with "BCM94352z". 
 ## Touchpad: 
 Working in Advance mode with all gestures. 
 
