@@ -50,4 +50,4 @@ OpenCore team for OpenCore pkg.
 | -------------                                   
 | Apple for macOS.                                
 | https://github.com/FraSharp for base efi.      
-| OpenCore team for OpenCore pkg. 
+| https://github.com/acidanthera for OpenCore pkg. 
