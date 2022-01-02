@@ -45,3 +45,9 @@ Credits:
 Apple for macOS
 https://github.com/FraSharp for base efi.
 OpenCore team for OpenCore pkg. 
+
+| Credits.                                        
+| -------------                                   
+| Apple for macOS.                                
+| https://github.com/FraSharp for base efi.      
+| OpenCore team for OpenCore pkg. 
