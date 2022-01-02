@@ -22,7 +22,14 @@ Working in Advance mode with all gestures.
 
 
 
-macOS Monterey is supported as used OpenCore version 0.7.6 (latest as per Writing Date)
+
+
+
+
+
+## Supported:
+Tested with macOS BigSur and Monterey. 
+OpenCore version 0.7.6 (latest as per Writing Date)
 
 
 ![macos 12.1 Monterey](https://user-images.githubusercontent.com/80771042/147864632-846e801c-2383-4861-a347-c1e1dad55891.png)
