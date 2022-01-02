@@ -24,8 +24,8 @@ Touchpad and touch display devices: Working in Advance mode with all gestures.
 
 | CPU                                                     | GPU           |
 | -------------                                           | ------------- |
-| Intel Core i5-8250U (Kaby Lake -R)                      | i. Intel UHD Graphics 620 -- Working with full graphics acceleration.(2048 MB)|
-                                                          |  ii. Nvidia GeForce MX 150 -- Disabled as not supported in macOS. |
+| Intel Core i5-8250U (Kaby Lake -R)                      | i. Intel UHD Graphics 620 -- Working with full graphics acceleration.(2048 MB)
+                                                          ii. Nvidia GeForce MX 150 -- Disabled as not supported in macOS. |
 
 macOS Monterey is supported as used OpenCore version 0.7.6 (latest as per Writing Date)
 
