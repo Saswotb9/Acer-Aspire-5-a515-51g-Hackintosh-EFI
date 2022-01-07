@@ -41,10 +41,7 @@ Theme from Acidanthera/OcBinaryData
 
 I will update the OpenCore as per need and upload it in the "Releases" tab. 
 
-Credits:
-Apple for macOS
-https://github.com/FraSharp for base efi.
-OpenCore team for OpenCore pkg. 
+
 
 | Credits.                                        
 | -------------                                   
